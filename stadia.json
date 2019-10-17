@@ -1,4 +1,9 @@
 {
+  "platforms": [
+    "mobile",
+    "pc",
+    "tv"
+  ],
   "games": [
     "Assassin's Creed Odyssey",
     "Attack on Titan 2: Final Battle",
